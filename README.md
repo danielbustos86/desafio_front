@@ -10,3 +10,6 @@ El sitio de ejemplo está corriendo en
 http://192.99.144.232:9000/
 
 puede probar buscando la palabra ala para probar palindromo
+http://localhost:5001/api/buscar?producto=ala
+
+http://192.99.144.232:5001/api/buscar?producto=ala
